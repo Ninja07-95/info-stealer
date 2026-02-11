@@ -1,0 +1,9 @@
+[package]
+name = "rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+whoami = "2.1"
+sysinfo = "0.27"
+if-addrs = "0.15"
