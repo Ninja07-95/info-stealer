@@ -15,7 +15,7 @@ Un outil en **Rust** pour récupérer et afficher les informations système de v
 ## Installation
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/info-stealer.git
+git clone https://github.com/Ninja07-95/info-stealer.git
 cd info-stealer
 cargo build --release
 ```
@@ -25,7 +25,11 @@ cargo build --release
 ```bash
 ./target/release/rust
 ```
+ou 
 
+```bash
+cargo run
+```
 ## Dépendances
 
 - `whoami` - Infos utilisateur
